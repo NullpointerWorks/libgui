@@ -1,9 +1,6 @@
 package com.nullpointerworks.gui;
 
 import com.nullpointerworks.core.input.MouseInput;
-import com.nullpointerworks.gui.UIElement;
-import com.nullpointerworks.gui.UISettings;
-import com.nullpointerworks.gui.UserInterface;
 import com.nullpointerworks.gui.interfaces.UIScrollListener;
 import com.nullpointerworks.math.FloatMath;
 import com.nullpointerworks.math.geometry.g2d.Rectangle;

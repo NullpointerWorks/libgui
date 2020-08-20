@@ -9,8 +9,8 @@ module libnpw.gui
 {
 	requires transitive java.desktop;
 	requires transitive libnpw.core;
+	requires transitive libnpw.math;
 	requires libnpw.util;
-	requires libnpw.math;
 
 	
 	exports com.nullpointerworks.gui;
