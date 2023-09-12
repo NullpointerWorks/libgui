@@ -1,5 +1,3 @@
-<a target="_blank" href="https://unlicense.org"><img src="https://unlicense.org/pd-icon.png" alt="Unlicense" width="40"/> Unlicense</a>
-
 # libgui
 A graphics library with a simple rendering API, image manipulation and various UI and font tools. 
 
